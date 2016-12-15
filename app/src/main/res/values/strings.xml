@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ControleurArduino</string>
+
+    <string name="cab">Cablages:</string>
+    <string name="all">Allumer</string>
+    <string name="telecharger">Télécharger</string>
+    <string name="mat">Materiels:</string>
+    <string-array name="mats">
+        <item>"*Arduino Uno</item>
+        <item>*Cable USB</item>
+        <item>*Cable OTG</item>
+        <item>*Un LED"</item>
+    </string-array>
+</resources>
